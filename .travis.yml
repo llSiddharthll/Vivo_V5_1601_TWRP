@@ -1,4 +1,4 @@
-os: windowsS
+os: windows
 dist: focal
 group: edge
 language: generic
